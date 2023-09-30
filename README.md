@@ -1,3 +1,6 @@
 # movie-poster
 not a project just a small piece of code
-#Link
+# Image
+![plot](image.png)
+# Link
+- movie-poster-example.vercel.app
